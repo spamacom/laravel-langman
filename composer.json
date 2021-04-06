@@ -6,13 +6,13 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Mohamed Said",
-            "email": "theMohamedSaid@gmail.com",
+            "name": "Mohamed Alali",
+            "email": "mouhammad.alali@gmail.com",
             "homepage": "https://themsaid.github.io"
         }
     ],
     "require": {
-        "php": "^5.5.9 || ^7.0",
+        "php": "^7.4.0 || ^8.0",
         "illuminate/support": "~5.1",
         "illuminate/console": "~5.1",
         "illuminate/filesystem": "~5.1"
