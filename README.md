@@ -1,4 +1,4 @@
-<h1 align="center">Laravel Langman</h1>
+<h1 align="center">Laravel Langman Support Laravel 10</h1>
 
 <p align="center">
 Langman is a language files manager in your artisan console, it helps you search, update, add, and remove
