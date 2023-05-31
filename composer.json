@@ -1,8 +1,8 @@
 {
-    "name": "themsaid/laravel-langman",
+    "name": "spamacom/laravel-langman",
     "description": "Manage language files with ease.",
     "keywords": ["laravel", "localization", "multilingual"],
-    "homepage": "https://github.com/themsaid/laravel-langman",
+    "homepage": "https://github.com/spamacom/laravel-langman",
     "license": "MIT",
     "authors": [
         {
@@ -18,10 +18,9 @@
         "illuminate/filesystem": "~5.1|^6.0|^7.0|^8.0|^9.0|^10.0"
     },
     "require-dev": {
-        "phpunit/phpunit" : "^4.8 || ^5.0",
-        "orchestra/testbench": "~3.0",
-        "orchestra/database": "~3.0",
-        "mockery/mockery": "~0.9.4"
+        "phpunit/phpunit" : "^10.0",
+        "orchestra/testbench": "^8.5.5",
+        "mockery/mockery": "~1.5.1"
     },
     "autoload": {
         "psr-4": {
